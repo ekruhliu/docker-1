@@ -1,0 +1,2 @@
+# eval $(docker-machine env -u) - del all active hosts
+eval $(docker-machine env Char)
